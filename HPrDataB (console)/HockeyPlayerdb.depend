@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1463406811 source:c:\users\sunita\desktop\hockeyplayerdb\database.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	"Database.h"
+	<cstdlib>
+
+1462865952 c:\users\sunita\desktop\hockeyplayerdb\database.h
+	"Player.h"
+
+1462865952 c:\users\sunita\desktop\hockeyplayerdb\player.h
+
+1463406811 source:c:\users\sunita\desktop\hockeyplayerdb\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Player.h"
+	"Database.h"
+	<cstdlib>
+
+1463406875 source:c:\users\sunita\desktop\hockeyplayerdb\player.cpp
+	<iostream>
+	"Player.h"
+
