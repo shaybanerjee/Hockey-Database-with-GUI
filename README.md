@@ -7,5 +7,6 @@ Setup (console):
 Setup (GUI):
 1. Download QT Creator: https://www.qt.io/download/
 
-Note: a functioning executable version of the GUI can be found under the (exe) directory.
+Note: a functioning executable version of the GUI can be found under the (exe) directory. <br> 
 
+<b> Watch video of application in action:</b> https://www.youtube.com/watch?v=C2bV6PxVHLc&t=52s
